@@ -17,8 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chrysler1211?tab=projects](https://github.com/Chrysler1211?tab=projects)
 
-- 📝 I regularly write articles on [Currently no blog — planning to start soon](Currently no blog — planning to start soon)
-
 - 💬 Ask me about **Python, Tkinter, Beginner Projects, and Study Tip**
 
 - 📫 How to reach me **chrysler.clarence19@gmail.com**
