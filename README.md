@@ -30,8 +30,8 @@
 🏆 Certifications
 
 - freeCodeCamp - Python
-  ![freeCodeCamp Certificate](<img width="1239" height="825" alt="Screenshot 2026-04-03 172423" src="https://github.com/user-attachments/assets/cae8b900-43fa-488e-9b28-aecc7f853584" />
-)https://www.freecodecamp.org/certification/chrysler-90/python-v9
+<img width="1239" height="825" alt="Screenshot 2026-04-03 172423" src="https://github.com/user-attachments/assets/cc02cc10-f50f-4611-965f-32f123828fab" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
