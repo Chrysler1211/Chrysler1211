@@ -27,6 +27,11 @@
 
 - ⚡ Fun fact **I once made a GUI project and forgot to attach the image — took me hours to figure it out 😅**
 
+🏆 Certifications
+
+- freeCodeCamp - Python
+  https://www.freecodecamp.org/certification/chrysler-90/python-v9
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@abantochry2684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abantochry2684" height="30" width="40" /></a>
