@@ -1,79 +1,93 @@
-<h1 align="center">Hi 👋, I'm Chrysler Abanto</h1>
-<h3 align="center">💻 Grade 12 ICT Student | Aspiring Software Developer & Tech Enthusiast</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrysler1211&label=Profile%20views&color=0e75b6&style=flat" alt="chrysler1211" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Chrysler%20Abanto&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Grade%2012%20ICT%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descSize=18" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrysler1211" alt="chrysler1211" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=chrysler1211&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+&nbsp;
+<a href="https://twitter.com/@abantochry2684"><img src="https://img.shields.io/twitter/follow/@abantochry2684?logo=twitter&style=flat-square&color=1DA1F2" /></a>
 
-<p align="left"> <a href="https://twitter.com/@abantochry2684" target="blank"><img src="https://img.shields.io/twitter/follow/@abantochry2684?logo=twitter&style=for-the-badge" alt="@abantochry2684" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on **Tkinter GUI Projects**
+---
 
-- 🌱 I’m currently learning **Python GUI (Tkinter), Git & GitHub**
+## 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Simple Python Games or Student Tools**
+Hey there! I'm **Chrysler**, a passionate Grade 12 ICT student from the Philippines building my path as a software developer — one project at a time.
 
-- 🤝 I’m looking for help with **Improving My python programming skill**
+- 🔭 Currently building **Tkinter GUI Projects**
+- 🌱 Learning **Python GUI (Tkinter), Git & GitHub, and MySQL**
+- 👯 Open to collaborating on **Simple Python Games or Student Tools**
+- 💬 Ask me about **Python, Tkinter, MySQL, and Beginner Projects**
+- 📫 Reach me at **chrysler.clarence19@gmail.com**
+- 🌐 Portfolio: [chryslerclarencewebsiteportfolio.my.canva.site](https://chryslerclarencewebsiteportfolio.my.canva.site/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chrysler1211?tab=projects](https://github.com/Chrysler1211?tab=projects)
+---
 
-- 📝 I regularly write articles on [Currently no blog — planning to start soon](Currently no blog — planning to start soon)
-
-- 💬 Ask me about **Python, Tkinter, Beginner Projects, and Study Tip**
-
-- 📫 How to reach me **chrysler.clarence19@gmail.com**
-
-- 📄 Know about my experiences [https://chryslerclarencewebsiteportfolio.my.canva.site/](https://chryslerclarencewebsiteportfolio.my.canva.site/)
-
-- ⚡ Fun fact **I once made a GUI project and forgot to attach the image — took me hours to figure it out 😅**
-
-🏆 Certifications
-
-- freeCodeCamp - Python
-<img width="1239" height="825" alt="Screenshot 2026-04-03 172423" src="https://github.com/user-attachments/assets/cc02cc10-f50f-4611-965f-32f123828fab" />
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@abantochry2684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abantochry2684" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pythonniche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pythonniche" height="30" width="40" /></a>
-<a href="https://fb.com/chrysler clarence abanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chrysler clarence abanto" height="30" width="40" /></a>
-<a href="https://instagram.com/clarencechrysler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clarencechrysler" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chryslersupervlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chryslersupervlogs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chrysler90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chrysler90" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.raspberrypi.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
-  </a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /></a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" /></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" /></a>&nbsp;
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /></a>&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" /></a>&nbsp;
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" height="45" alt="Arduino" /></a>&nbsp;
+  <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://skillicons.dev/icons?i=raspberrypi" height="45" alt="Raspberry Pi" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrysler1211&show_icons=true&locale=en&layout=compact" alt="chrysler1211" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrysler1211&show_icons=true&locale=en" alt="chrysler1211" /></p>
+## 🏆 Certifications
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrysler1211&" alt="chrysler1211" /></p>
+| Badge | Certification | Issuer |
+|-------|--------------|--------|
+| 🐍 | Python (Scientific Computing with Python) | freeCodeCamp |
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cc02cc10-f50f-4611-965f-32f123828fab" alt="freeCodeCamp Python Certification" width="700" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chrysler1211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00c6ff&text_color=c9d1d9" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chrysler1211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chrysler1211&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=00c6ff&currStreakLabel=00c6ff" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chrysler1211&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/@abantochry2684" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>&nbsp;
+  <a href="https://fb.com/chrysler clarence abanto" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40" /></a>&nbsp;
+  <a href="https://instagram.com/clarencechrysler" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>&nbsp;
+  <a href="https://stackoverflow.com/users/pythonniche" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" /></a>&nbsp;
+  <a href="https://www.youtube.com/c/chryslersupervlogs" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="40" /></a>&nbsp;
+  <a href="https://www.leetcode.com/chrysler90" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40" /></a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=100&section=footer" />
+
+</div>
