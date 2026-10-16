@@ -42,8 +42,8 @@ Hey there! I'm **Chrysler**, a BSIT student from the Philippines building my pat
 Completed **October 15, 2026**. An online course authorized by Google and offered through Coursera.
 
 <div align="center">
-
-[![Google Technical Support Fundamentals Certificate](assets/google-technical-support-fundamentals-certificate.png)](https://coursera.org/verify/DPK80OXHOL1J)
+  
+![Google Technical Support Fundamentals Certificate](./assets/google-technical-support-fundamentals-certificate.png)
 
 **[Verify this certificate on Coursera](https://coursera.org/verify/DPK80OXHOL1J)**
 
